@@ -1,7 +1,11 @@
+body {
+  overflow: auto;
+}
+
 @media(max-width:950px){
     .container{
         width:100%!important;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
     
     .menu a{
