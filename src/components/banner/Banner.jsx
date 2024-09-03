@@ -62,7 +62,7 @@ const Banner = () => {
 <Row>
 <Col lg={6}>
 <div className="hui">
-  <a href="file:///C:/Users/ADMIN/Downloads/cv%20pdf.pdf">  <button>Download Cv <a href=""><FaDownload /></a> </button ></a>
+  <a href="file:///C:/Users/ADMIN/Downloads/cv%20pdf.pdf">  <button>Download Cv  </button ></a>
 
    
 </div>

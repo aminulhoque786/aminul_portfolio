@@ -74,7 +74,7 @@ const Talk = () => {
     <div className="yah">
 <div className="top">
 
-<h1 class="gradient-text">Let’s work together!</h1>
+<h1 className="gradient-text">Let’s work together!</h1>
 <h4>I design and code beautifully simple things and i love what i do. Just simple like that!</h4>
 </div>
 <form onSubmit={handleSubmit} style={formStyle}>

@@ -56,7 +56,7 @@ const Client = () => {
 <Col lg={7}>
 <div className="doc">
 
-<h1 class="gradient-text">My Quality Services</h1>
+<h1 className="gradient-text">My Quality Services</h1>
 <h6>Empowering people in new a digital journey with my super services</h6>
 </div>
 

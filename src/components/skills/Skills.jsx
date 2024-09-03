@@ -12,7 +12,7 @@ const Skills = () => {
     <section id="skill">
 <Container>
 <div className="jugu">
-<h1 class="gradient-text">My skills</h1>
+<h1 className="gradient-text">My skills</h1>
 <h5>We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers.</h5>
 </div>
 <div className="skilling">

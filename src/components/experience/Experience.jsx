@@ -8,7 +8,7 @@ const Experience = () => {
     <section id="experience">
   <Container>
 <div className="raw">
-<h1 class="gradient-text">My Quality Services</h1>
+<h1 className="gradient-text">My Quality Services</h1>
 <h6>We put your ideas and thus your wishes in the form of a unique web project that inspires you and you customers.</h6>
 </div>
 

@@ -10,7 +10,7 @@ const Recent = () => {
     <section id="recent">
 <Container>
 <div className="time">
-<h1 class="gradient-text">My Recent Works</h1>
+<h1 className="gradient-text">My Recent Works</h1>
 </div>
 <div className="tipe">
     <a href="">All </a>

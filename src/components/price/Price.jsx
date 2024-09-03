@@ -21,7 +21,7 @@ const Price = () => {
 
 <Col lg={10}>
 <div className="educate">
-<h1 class="gradient-text">My Education</h1>
+<h1 className="gradient-text">My Education</h1>
 </div>
 
 
@@ -51,7 +51,7 @@ const Price = () => {
 
 <Col lg={10}>
 <div className="educate">
-<h1 class="gradient-text">My Experience</h1>
+<h1 className="gradient-text">My Experience</h1>
 </div>
 
 
