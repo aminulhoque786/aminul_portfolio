@@ -1,7 +1,7 @@
 import React from 'react'
 import "./recent.css"
 import { Col, Container, Row } from 'react-bootstrap'
-import protfo from '../../assets/PROTFO.WEBP'
+import protfo from '../../assets/protfo.webp'
 import pro from "../../assets/pro.webp"
 import img from "../../assets/do.webp"
 import img2 from "../../assets/io.webp"
